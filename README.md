@@ -32,7 +32,7 @@ The dataset used in this project is the California housing dataset, which contai
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.7
 - pandas
 - scikit-learn
 
