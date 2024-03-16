@@ -15,18 +15,7 @@ The dataset used in this project is the California housing dataset, which contai
 - `population`: Total population in the district.
 - `households`: Total number of households in the district.
 - `median_income`: Median income of the people living in the district.
-- `median_house_value`: Median house value for households in the district.
-
-## Project Structure
-
-├── data/ # Directory for storing dataset
-│ └── california_housing.csv # California housing dataset
-├── notebooks/ # Jupyter notebooks for data exploration and modeling
-│ ├── data_exploration.ipynb
-│ └── model_training.ipynb
-├── models/ # Trained machine learning models
-├── requirements.txt # List of Python dependencies
-└── README.md # Project README file
+- `median_house_value`: Median house value for households in the district
 
 
 
@@ -65,3 +54,19 @@ Create a new Env
 python -m venv venv
 
 ```
+# California Dataset Workflow with Airflow
+
+
+
+## Prerequisites
+
+Before running the workflow, ensure you have the following installed:
+
+- Python
+- Apache Airflow
+- Necessary Python packages (such as scikit-learn,tensorflow numpy, etc.)
+
+## contains
+- dockerfile
+- docker-compose.yaml
+- requirements.txt
