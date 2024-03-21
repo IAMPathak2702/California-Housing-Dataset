@@ -17,7 +17,7 @@ The dataset used in this project is the California housing dataset, which contai
 - `median_income`: Median income of the people living in the district.
 - `median_house_value`: Median house value for households in the district
 
-
+<img src= https://raw.githubusercontent.com/IAMPathak2702/California-Housing-Dataset/main/storage/californiagif.gif>
 
 ## Dependencies
 
@@ -32,6 +32,10 @@ The dataset used in this project is the California housing dataset, which contai
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 5. [Colab](https://colab.research.google.com/?utm_source=scs-index)
 ## Usage
+
+
+
+
 
 1. Clone the repository:
     ```
