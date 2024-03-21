@@ -1,5 +1,5 @@
 # End to End Machine learning Project 
-# California Housing Price Prediction
+# California Dreaming: Unveiling the Future of Home Prices in the Golden State
 
 This project aims to predict housing prices in California using machine learning techniques. The dataset used in this project contains information about housing districts in California, including features such as median income, median house value, population, and more.
 
